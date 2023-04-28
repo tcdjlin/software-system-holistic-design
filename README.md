@@ -1,4 +1,4 @@
-# num_tic_tac_toe
+# Numerical Tic Tac Toe
 * Designed an extensive board game framework that can be applied to multiple games. 
 * Numerical Tic Tac Toe is implemented using the framework, with pdf user manual available.
 

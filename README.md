@@ -12,4 +12,9 @@
 * Developed by using the framework.
 
 
+**To run this game**
+1. Ensure that you are using .NET6
+2. dotnet build of the directory
+3. dotnet run
+
 > Read User Manual for more info.

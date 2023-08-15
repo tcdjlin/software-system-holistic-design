@@ -2,7 +2,7 @@
 
 ### Demo of Game Design & Usage Manual
 
-- Explore the **Game Design Manual PDF** (`Game_Design_Manual.pdf`) for a detailed guide and all the blueprints!
+- Explore the **Game Design Manual PDF** (`Game_Design_Manual.pdf`) for a detailed guide and the blueprints of the entire design.
   - [Comprehensive Game Design & Usage Manual](https://github.com/andrewtclin/board-game-framework-with-num-tic-tac-toe/blob/master/Game_Design_Manual.pdf)
 
 ### Overview

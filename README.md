@@ -1,9 +1,10 @@
 ## The Ultimate Board Game Framework
 
-### Demo of Game Design & Design Manual
+### Demo of Game Design Manual 
 
 - Explore the **Game Design Manual PDF** (`Game_Design_Manual.pdf`) for a detailed guide and the blueprints of the entire design.
   - [Comprehensive Game Design & Usage Manual](https://github.com/andrewtclin/board-game-framework-with-num-tic-tac-toe/blob/master/Game_Design_Manual.pdf)
+- Access code by running `dotnet run` on the project folder for **Game Demo**
 
 ### Overview
 

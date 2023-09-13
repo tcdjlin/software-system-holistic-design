@@ -22,5 +22,5 @@
 
 ### Game Design Manual
 
-- For a detailed understanding of the Numerical Tic Tac Toe game and its implementation using the Board Game Framework, refer to the **Game Design Manual PDF**.
+- For detailed understanding of the Numerical Tic Tac Toe game and its implementation using the Board Game Framework, refer to the **Game Design Manual PDF**.
 - The manual is thoughtfully structured and provides **detailed explanations**, **blueprints**, and **guidelines** to enhance your gaming experience.

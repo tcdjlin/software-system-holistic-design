@@ -4,7 +4,7 @@ Using **Board Game as an example for implementation**.
 
 ### Demo of Game Design Manual 
 
-- Explore the **Game Design Manual PDF** (`Game_Design_Manual.pdf`) for detailed guide and the blueprints of the entire design.
+- Explore the **Game Design Manual PDF** (`Game_Design_Manual.pdf`) for a detailed guide and the blueprints of the entire design.
   - [Comprehensive Game Design & Usage Manual](https://github.com/andrewtclin/board-game-framework-with-num-tic-tac-toe/blob/master/Game_Design_Manual.pdf)
 - Code can be accessed by running `dotnet run` in the project folder for **Game Demo**
 

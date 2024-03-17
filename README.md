@@ -20,7 +20,7 @@ Using **Board Game as an example for implementation**.
 
 - Extensive board game framework designed to support multiple games.
 - Implementation of Numerical Tic Tac Toe using the framework.
-- User-friendly and informative Game Design Manual PDF provided for a comprehensive understanding of the game.
+- User-friendly and informative Game Design Manual PDF provided for comprehensive understanding of the game.
 
 ### Game Design Manual
 

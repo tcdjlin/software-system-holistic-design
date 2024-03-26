@@ -11,7 +11,7 @@ Using **Board Game as an example for implementation**.
 ### Overview
 
 - This Board Game Framework is a comprehensive and well-designed C# .NET project that provides a versatile foundation for developing different board games.
-- A robust structure and design, making it easy to implement on different games using the framework.
+- A robust structure and design, making it easy to implement on different games using this framework.
 - One example implementation of the framework is the **Numerical Tic Tac Toe game**, accompanied by a well-crafted and structured user manual in PDF format
 
 <img src="boardgame_demo.png" alt="Alt Text" width="400" height="auto">
@@ -20,7 +20,7 @@ Using **Board Game as an example for implementation**.
 
 - Extensive board game framework designed to support multiple games.
 - Implementation of Numerical Tic Tac Toe using the framework.
-- User-friendly and informative Game Design Manual PDF provided for comprehensive understanding of the game.
+- User-friendly and informative Game Design Manual PDF provided for a comprehensive understanding of the game.
 
 ### Game Design Manual
 

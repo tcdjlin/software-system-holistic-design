@@ -1,6 +1,6 @@
 ## Holistic Design of Software Systems - From UML Diagrams to Projects
 
-Using **Board Game as an example for implementation**.
+Using Board Game as an example for **implementation**.
 
 ### Demo: Game Design Manual 
 

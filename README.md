@@ -1,4 +1,4 @@
-## Holistic Design of Software Systems - Software Design: From UML Diagrams to Projects
+## Robust Design of Software Systems - Software Design: From UML Diagrams to Projects
 
 Using Board Game as an example of **implementation**.
 

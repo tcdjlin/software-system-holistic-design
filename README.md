@@ -1,4 +1,4 @@
-## Holistic Software System Design: m UML Design to Projects
+## Holistic Software System Design: From UML Design to Projects
 
 Using Board Game as an example of **implementation**.
 

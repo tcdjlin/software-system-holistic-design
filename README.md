@@ -1,4 +1,4 @@
-## Holistic Software System Design: From ML Design to Projects
+## Holistic Software System Design: ML Design to Projects
 
 Using Board Game as an example of **implementation**.
 
